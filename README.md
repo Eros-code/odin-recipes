@@ -4,8 +4,8 @@ It is a basic website which contains recipes for different dishes. The purpose o
 
 The skills which have been implemented here are:
 
--adding headers '\n'
--linking web pages together
--allowing navigation between pages via hyperlinks
--implementing pictures
+-adding headers <br>
+-linking web pages together <br>
+-allowing navigation between pages via hyperlinks <br>
+-implementing pictures <br>
 -adding text
