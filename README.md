@@ -8,4 +8,7 @@ The skills which have been implemented here are:
 -linking web pages together <br>
 -allowing navigation between pages via hyperlinks <br>
 -implementing pictures <br>
--adding text
+-adding text <br>
+-adding images <br>
+-using ordered and unordered lists
+-adding paragraphs using <p> which use <strong> and <em> tags
