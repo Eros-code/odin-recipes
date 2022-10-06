@@ -10,5 +10,5 @@ The skills which have been implemented here are:
 -implementing pictures <br>
 -adding text <br>
 -adding images <br>
--using ordered and unordered lists
--adding paragraphs using <p> which use <strong> and <em> tags
+-using ordered and unordered lists <br>
+-adding paragraphs using `<p>` which use `<strong>` and `<em>` tags
